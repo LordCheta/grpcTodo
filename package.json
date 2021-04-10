@@ -1,0 +1,16 @@
+{
+  "name": "grpc-todo",
+  "version": "1.0.0",
+  "description": "A todo implementation with gRPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lordcheta",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.6.0",
+    "grpc": "^1.24.6"
+  }
+}
